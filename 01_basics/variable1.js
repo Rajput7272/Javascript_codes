@@ -10,3 +10,5 @@ accountcity="delhi"
 
 console.log(accountEmail);
 console.log([accountEmail,accountId,accountpassword,accountcity])
+
+/*Prefer Not to use var because issue in scope */
