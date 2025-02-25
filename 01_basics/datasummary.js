@@ -27,3 +27,6 @@ const myFunction=function(){
     console.log("Hello World");
 }
 console.log(typeof BigInt);
+
+// Memory
+// Stack (primitive), Heap(Non- primitive)
